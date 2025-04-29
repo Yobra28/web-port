@@ -634,7 +634,7 @@
 }
 
 div {
-    margin: 0 !important;
+    width: 100% !important;
 }
 
 /* Contact Section */
