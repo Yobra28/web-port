@@ -633,7 +633,9 @@
     font-size: 1rem;
 }
 
-
+div {
+    margin: 0 !important;
+}
 
 /* Contact Section */
 .contact {
