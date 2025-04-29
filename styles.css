@@ -449,6 +449,10 @@
     .stat-number {
         font-size: 36px;
     }
+    
+    .image-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* Responsive adjustments */
@@ -634,7 +638,7 @@
 }
 
 div {
-    width: 100% !important;
+    width: 100%;
 }
 
 /* Contact Section */
